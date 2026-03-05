@@ -1,7 +1,6 @@
 # Majid Rasheed
-
-MSc Artificial Intelligence & Data Science graduate.
 Machine Learning | Data Science | Computer Vision | Time Series Forecasting
+MSc Artificial Intelligence & Data Science graduate.
 ## Featured Projects
 
 - Solar Radiation Forecasting  
